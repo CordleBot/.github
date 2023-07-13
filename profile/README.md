@@ -1,1 +1,1 @@
-## Welcome to Cordle Bot
+# **`Welcome to Cordle Bot`**
